@@ -1,5 +1,5 @@
-<h1>About
- Hello there! I'm Just Fullstack Programmer
+<h1>About</h1>
+ Hello there! I'm just fullstack programmer
 <h1>Skills
  <h2>Program languages</h2>
   
