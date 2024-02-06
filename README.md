@@ -19,3 +19,5 @@
  <h2>Container</h2>
  
  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleu0091)](https://github.com/aleu0091/github-readme-stats)
