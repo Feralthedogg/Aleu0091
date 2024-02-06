@@ -19,7 +19,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: 여기다가 github ID 적기 !!!
+          github_user_name: aleu0091
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
