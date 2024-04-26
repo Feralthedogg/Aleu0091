@@ -1,6 +1,6 @@
 # About
-Hello there! I'm just a fullstack programmer.<br/>
-I like cute things! 
+> Hello there! I'm just a fullstack programmer.<br/>
+> I like cute things! 
 
 # Skills
 ## Program languages
