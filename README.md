@@ -19,6 +19,5 @@ I like cute things!
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aleu0091&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleu0091&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true)
-![Snake Animation](https://github.com/aleu0091/aleu0091/blob/output/github-snake-dark.svg)
 
 
